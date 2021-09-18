@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title>BIODATA </title><!DOCTYPE HTML>
+<HTML>
+<head>
+<title>BIODATA </title>
+</head>
+<body>
+<center>
+	<p>Sirojudin Mutawali</p>
+
+	<img src="mutawali.jpeg" width="500px">
+		
+</body>
+<a/>
+</center>
+<h2>BIODATA DIRI</h2>
+<p>
+   <label>Nama :</label>
+   <input type="text" name="nama" placeholder="Nama" />
+</p>
+<p>
+   <label>Alamat :</label>
+   <input type="text" name="alamat" placeholder="Alamat" />
+</p>
+<p>
+   <label>Email :</label>
+   <input type="text" name="Email" placeholder="Email" />
+</p>
+<p>
+   <label>Hp :</label>
+   <input type="text" name="Hp " placeholder="Hp" />
+</p>
+<combobox>
+Agama :
+<select>
+<option nama=agama= value="Islam">Islam</option>
+<option nama=agama= value="Kristen">Kristen</option>
+<option nama=agama= value="Katalok">Katolik</option>
+<option nama=agama= value="Buddha">Buddha</option>
+<option nama=agama= value="Hindu">Hindu</option>
+<option nama=agama= value="Konghucu">Konghucu</option>
+</select>
+<br>
+<br>Hobi :
+ <ul>
+ <li> Game </li>
+ <li> Menonton Tayangan Olahraga </li>
+ <li> Fotografi </li>
+ <li> Membaca </li>
+ </ul>
+
+<p>
+   <label>Program Studi :</label>
+   <input type="text" name="Program Studi " placeholder="Prodi " />
+</p>
+<p>
+   <label>Kampus :</label>
+   <input type="text" name="Kampus " placeholder="Kampus " />
+</p>
+<body>
+	<form>
+	     <label for="Diskripsi diri:">Diskripsi diri :</label>
+	     <textarea name="Diskripsi diri:"></textarea><br>
+	</form>
+<table border="1">
+    <tr>
+
+        <td> Nama Sekolah</td>
+
+        <td> Tahun Lulus</td>
+    </tr>
+ 
+    <tr>
+        <td> SDN Baros 3</td>
+
+        <td> 2013</td>
+    </tr>
+    <tr>
+        <td> MTs Nurul Huda Baros</td>
+
+        <td> 2016</td>
+    </tr>
+    <tr>
+    <td> MAN 1 Pandeglang</td>
+
+        <td> 2019</td>
+    </tr>
+</table>
+</body>
+</html></head>
+<body>
+<center>
